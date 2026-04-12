@@ -127,6 +127,6 @@ Top cities by sales:
 
 ## 🖼️ Dashboard Preview
 
-https://github.com/Nikhil06616/dmart-sales-analysis-powerbi/blob/main/DMART%20DASHBOARD.
+https://github.com/Nikhil06616/dmart-sales-analysis-powerbi/blob/main/DMART%20DASHBOARD.png
 
 ---
