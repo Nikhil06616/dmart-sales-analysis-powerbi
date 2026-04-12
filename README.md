@@ -26,7 +26,8 @@ This dashboard provides a comprehensive view of sales and profit performance acr
 
 ## 📂 Data Source
 
-**Source:** Retail sales dataset (DMart-style simulated dataset)
+**Source:** KAGGLE - dmart grocery sales
+            (https://www.kaggle.com/datasets/nikolaireeds/dmart-grocery-sales)
 
 **Dataset includes:**
 
