@@ -1,4 +1,4 @@
-# dmart-sales-analysis-powerbi  
+
 # 🛒 DMart Sales & Profit Analysis Dashboard
 
 ## 📌 Project Overview
